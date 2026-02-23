@@ -1,7 +1,7 @@
 # .config.py
 
 # توكن البوت من BotFather
-API_TOKEN = '8172361853:AAF8Nd0zsDVfmtZ4x9zafCQbanvLgMMQy44'
+API_TOKEN = '8172361853:AAGaLMSaoWxcWrvhQP5-Ay2rY5eL6a_0ox0'
 
 # الآيدي الخاص بك كمدير (تحصل عليه من @userinfobot)
 ADMIN_ID = 5013565453
