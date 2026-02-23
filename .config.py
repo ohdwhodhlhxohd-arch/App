@@ -7,7 +7,7 @@ API_TOKEN = '8172361853:AAGaLMSaoWxcWrvhQP5-Ay2rY5eL6a_0ox0'
 ADMIN_ID = 5013565453
 
 # رابط صفحة الإدارة (تحديثه عند كل تشغيل لـ Serveo أو Cloudflared)
-WEBAPP_URL = "https://app-4ovd.onrender.com/admin-page"
+WEBAPP_URL = "https://app-1-jydp.onrender.com/admin-page"
 
 # مثال لرقم سوداني
 WHATSAPP_NUMBER = "249903405826" 
